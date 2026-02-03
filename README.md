@@ -1,2 +1,2 @@
-# SYSC4415_A1
-SYSC 4415 Assignment 1
+# SYSC4415
+SYSC 4415 Assignments
